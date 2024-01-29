@@ -29,6 +29,8 @@ input{
     background-color: antiquewhite;
     border: 3px solid rgb(129, 119, 85);
     border-radius:5px ;
+    box-sizing: border-box;
+    
 }
 button{
     width: 120px;
